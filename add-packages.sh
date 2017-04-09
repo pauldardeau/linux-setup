@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo apt-get install git tmux nmon htop
+sudo apt-get install vim tmux nmon htop
